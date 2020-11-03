@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto; 
+}
+.centrar{
+    text-align: center;
+}
+
+.teemo {
+    background-color: black;
+}
+
+.sobremi {
+    background-color: goldenrod;
+}
+
+.chocolate {
+    display: flex;
+    justify-content: center;
+}
+
+.caramelo {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.mistrabajos {
+    background-color: goldenrod;
+}
+
+.contacta {
+    background-color: goldenrod;
+}
